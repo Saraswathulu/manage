@@ -1,1 +1,1 @@
-# manage
+# manage include<stdio.h.
